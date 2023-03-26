@@ -1,0 +1,9 @@
+package HW5;
+
+import UI.App;
+
+public class Program {
+    public static void main(String[] args) {
+        App.Run();
+    }
+}
